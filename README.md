@@ -1,16 +1,64 @@
-## Hi there 👋
+──────────────────────────────────────────
 
-<!--
-**Vsantos39/Vsantos39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        CYBERLAB 2030
 
-Here are some ideas to get you started:
+Build • Secure • Automate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+──────────────────────────────────────────
+
+Olá!
+
+Sou Viviane Santos.
+
+Analista de Segurança apaixonada por infraestrutura,
+automação e tecnologias Open Source.
+
+Atualmente estou desenvolvendo o CyberLab 2030,
+um laboratório permanente criado para evoluir minhas
+competências em Cibersegurança durante os próximos anos.
+
+──────────────────────────────────────────
+
+🎯 Objetivos
+
+✔ Linux
+
+✔ Oracle Cloud
+
+✔ Docker
+
+✔ Terraform
+
+✔ Ansible
+
+✔ Wazuh
+
+✔ DevSecOps
+
+✔ Red Team
+
+✔ Blue Team
+
+──────────────────────────────────────────
+
+Roadmap
+
+██████░░░░ Linux
+
+██░░░░░░░ Docker
+
+█░░░░░░░░ Terraform
+
+──────────────────────────────────────────
+
+Projetos
+
+CyberLab Docs
+
+CyberLab Infrastructure
+
+CyberLab Security
+
+CyberLab Automation
+
+──────────────────────────────────────────
