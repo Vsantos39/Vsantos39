@@ -19,7 +19,7 @@ competências em Cibersegurança durante os próximos anos.
 
 ──────────────────────────────────────────
 
-🎯 Objetivos
+Objetivos
 
 ✔ Linux
 
@@ -38,16 +38,6 @@ competências em Cibersegurança durante os próximos anos.
 ✔ Red Team
 
 ✔ Blue Team
-
-──────────────────────────────────────────
-
-Roadmap
-
-██████░░░░ Linux
-
-██░░░░░░░ Docker
-
-█░░░░░░░░ Terraform
 
 ──────────────────────────────────────────
 
